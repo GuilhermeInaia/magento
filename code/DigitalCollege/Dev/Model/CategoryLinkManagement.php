@@ -72,7 +72,7 @@ class CategoryLinkManagement implements \DigitalCollege\Dev\Api\CategoryLinkMana
         return $links;
     }
 
-    public function getProductsbyId($id)
+    public function getAssignedProductsById($id)
     {
         $product = $this->productRepository->getById($id);
 

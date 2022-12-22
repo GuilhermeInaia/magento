@@ -13,5 +13,5 @@ interface ProductLinkManagementInterface
      * @param int $id
      * @return \DigitalCollege\Dev\Api\Data\CategoryProductLinkInterface[]
      */
-    public function getAssignedProducts($id);
+    public function getAssignedProductsById($id);
 }

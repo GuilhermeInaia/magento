@@ -8,4 +8,5 @@ xsi:noNamespaceSchemaLocation="../../../../../lib/internal/Magento/Framework/Obj
 
     <preference for="DigitalCollege\Dev\Api\CategoryLinkManagementInterface" type="DigitalCollege\Dev\Model\CategoryLinkManagement" />
     <preference for="DigitalCollege\Dev\Api\Data\CategoryProductLinkInterface" type="DigitalCollege\Dev\Model\CategoryProductLink" />
+    <preference for="DigitalCollege\Dev\Api\ProductLinkManagementInterface" type="DigitalCollege\Dev\Model\CategoryLinkManagement" />
 </config>
